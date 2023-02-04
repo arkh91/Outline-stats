@@ -1,4 +1,4 @@
-# UFO Sighting Webpage
+# Outline-stats
 
 This code is to look up outline access key and shows the data table in a html file:
 
